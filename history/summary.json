@@ -40,19 +40,19 @@
     "url": "http://game.brbr.xyz:25569/",
     "icon": "https://favicons.githubusercontent.com/game.brbr.xyz",
     "slug": "join-bot",
-    "status": "down",
-    "uptime": "57.72%",
-    "uptimeDay": "57.72%",
-    "uptimeWeek": "57.72%",
-    "uptimeMonth": "57.72%",
-    "uptimeYear": "57.72%",
-    "time": 106,
-    "timeDay": 106,
-    "timeWeek": 106,
-    "timeMonth": 106,
-    "timeYear": 106,
+    "status": "up",
+    "uptime": "32.85%",
+    "uptimeDay": "32.85%",
+    "uptimeWeek": "32.85%",
+    "uptimeMonth": "32.85%",
+    "uptimeYear": "32.85%",
+    "time": 83,
+    "timeDay": 83,
+    "timeWeek": 83,
+    "timeMonth": 83,
+    "timeYear": 83,
     "dailyMinutesDown": {
-      "2022-01-08": 26
+      "2022-01-08": 74
     }
   }
 ]
