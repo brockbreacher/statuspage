@@ -5,17 +5,23 @@ repo: statuspage # The name of this repository
 sites:
   - name: Retriox
     url: https://retriox.net
+    icon: https://retriox.net
   - name: Retriox Forums
     url: https://forums.retriox.net
+    icon: https://retriox.net
   - name: Join-Bot
     url: http://game.brbr.xyz:25569/
-
+  - name: Survival Server
+    check: "tcp-ping"
+    url: play.retriox.net
+    port: 25599
+    icon: https://www.minecraft.net/en-us
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.retriox.net
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://img.brbr.xyz/img/ricon.png
   name: Retriox Upptime
   introTitle: ""
   introMessage: 
