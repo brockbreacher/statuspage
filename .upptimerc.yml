@@ -12,9 +12,7 @@ sites:
   - name: Join-Bot
     url: http://game.brbr.xyz:25569/
   - name: Survival Server
-    check: "tcp-ping"
-    url: play.retriox.net
-    port: 25599
+    url: http://map.retriox.net:42069/
     icon: https://www.minecraft.net/en-us
 status-website:
   theme: dark
