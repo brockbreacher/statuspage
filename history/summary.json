@@ -60,19 +60,20 @@
     "url": "http://map.retriox.net:42069/",
     "icon": "https://www.minecraft.net/en-us",
     "slug": "survival-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 97,
-    "timeDay": 80,
-    "timeWeek": 97,
-    "timeMonth": 97,
-    "timeYear": 97,
+    "status": "up",
+    "uptime": "99.59%",
+    "uptimeDay": "97.29%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
+    "time": 100,
+    "timeDay": 98,
+    "timeWeek": 100,
+    "timeMonth": 100,
+    "timeYear": 100,
     "dailyMinutesDown": {
-      "2022-01-15": 0
+      "2022-01-16": 29,
+      "2022-01-15": 10
     }
   }
 ]
