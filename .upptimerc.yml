@@ -9,6 +9,8 @@ sites:
   - name: Retriox Forums
     url: https://forums.retriox.net
     icon: https://retriox.net
+  - name: Webpanel
+    url: $WEBPANEL
   - name: Join-Bot
     url: http://game.brbr.xyz:25569/
   - name: Survival Server
