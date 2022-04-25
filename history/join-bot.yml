@@ -1,7 +1,7 @@
-url: http://game.brbr.xyz:25569/
+url: $JOINBOT
 status: up
 code: 200
-responseTime: 78
-lastUpdated: 2022-04-25T19:42:36.891Z
+responseTime: 83
+lastUpdated: 2022-04-25T19:44:11.810Z
 startTime: Fri Jan 07 2022 23:50:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
