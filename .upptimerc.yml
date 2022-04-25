@@ -12,7 +12,7 @@ sites:
   - name: Webpanel
     url: $WEBPANEL
   - name: Join-Bot
-    url: http://game.brbr.xyz:25569/
+    url: $JOINBOT
   - name: Survival Server
     url: http://map.retriox.net:42069/
     icon: https://www.minecraft.net/en-us
