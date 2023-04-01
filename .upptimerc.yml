@@ -6,13 +6,12 @@ sites:
   - name: Retriox
     url: https://retriox.net
     icon: https://retriox.net
-  - name: Retriox Forums
-    url: https://forums.retriox.net
-    icon: https://retriox.net
   - name: Webpanel
     url: $WEBPANEL
+    icon: https://yunohost.org/_images/ynh_logo_white_300dpi.png
   - name: Join-Bot
     url: $JOINBOT
+    icon: https://brbr.xyz/wp-content/uploads/2021/03/BrockDoorIcon-1.png
   - name: Cardboard
     url: https://status.cardboardserver.cc/status/cardboard
     icon: https://status.cardboardserver.cc/upload/logo1.png?t=1680385101181
