@@ -11,10 +11,10 @@
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.69%",
     "time": 220,
-    "timeDay": 234,
-    "timeWeek": 205,
-    "timeMonth": 210,
-    "timeYear": 225,
+    "timeDay": 205,
+    "timeWeek": 204,
+    "timeMonth": 212,
+    "timeYear": 226,
     "dailyMinutesDown": {
       "2023-03-28": 83,
       "2023-03-23": 31,
@@ -37,9 +37,9 @@
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.93%",
     "time": 221,
-    "timeDay": 121,
+    "timeDay": 145,
     "timeWeek": 108,
-    "timeMonth": 172,
+    "timeMonth": 174,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2023-03-28": 82,
@@ -54,16 +54,16 @@
     "icon": "https://brbr.xyz/wp-content/uploads/2021/03/BrockDoorIcon-1.png",
     "slug": "join-bot",
     "status": "up",
-    "uptime": "64.68%",
+    "uptime": "64.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.19%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "56.63%",
     "time": 117,
-    "timeDay": 104,
-    "timeWeek": 104,
-    "timeMonth": 104,
-    "timeYear": 118,
+    "timeDay": 103,
+    "timeWeek": 103,
+    "timeMonth": 106,
+    "timeYear": 119,
     "dailyMinutesDown": {
       "2023-03-28": 82,
       "2023-01-31": 24,
@@ -229,8 +229,7 @@
       "2022-06-02": 92,
       "2022-04-23": 20,
       "2022-04-17": 24,
-      "2022-04-16": 29,
-      "2022-04-02": 232
+      "2022-04-16": 29
     }
   },
   {
@@ -244,11 +243,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 208,
-    "timeWeek": 208,
-    "timeMonth": 208,
-    "timeYear": 208,
+    "time": 230,
+    "timeDay": 230,
+    "timeWeek": 230,
+    "timeMonth": 230,
+    "timeYear": 230,
     "dailyMinutesDown": {}
   }
 ]
