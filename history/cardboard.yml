@@ -1,7 +1,7 @@
 url: https://status.cardboardserver.cc/status/cardboard
-status: up
-code: 200
-responseTime: 324
-lastUpdated: 2023-05-01T23:11:35.643Z
+status: down
+code: 530
+responseTime: 75
+lastUpdated: 2023-05-02T09:36:59.799Z
 startTime: Sat Apr 01 2023 21:39:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
