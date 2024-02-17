@@ -12,9 +12,12 @@ sites:
   - name: Join-Bot
     url: $JOINBOT
     icon: https://brbr.xyz/wp-content/uploads/2021/03/BrockDoorIcon-1.png
-  - name: Cardboard
+  - name: Cardboard Server
     url: https://status.cardboardserver.cc/status/cardboard
     icon: https://status.cardboardserver.cc/upload/logo1.png?t=1680385101181
+  - name: Cardboards.net
+    url: https://cardboards.net
+    icon: https://cardboards.net/wp-content/uploads/2023/11/box.png
 status-website:
   theme: dark
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
