@@ -51,7 +51,7 @@
     "icon": "https://brbr.xyz/wp-content/uploads/2021/03/BrockDoorIcon-1.png",
     "slug": "join-bot",
     "status": "up",
-    "uptime": "79.69%",
+    "uptime": "79.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.22%",
     "uptimeMonth": "99.82%",
@@ -74,18 +74,20 @@
     "url": "https://status.cardboardserver.cc/status/cardboard",
     "icon": "https://status.cardboardserver.cc/upload/logo1.png?t=1680385101181",
     "slug": "cardboard-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 198,
-    "timeDay": 332,
-    "timeWeek": 229,
-    "timeMonth": 198,
-    "timeYear": 198,
-    "dailyMinutesDown": {}
+    "time": 202,
+    "timeDay": 301,
+    "timeWeek": 233,
+    "timeMonth": 202,
+    "timeYear": 202,
+    "dailyMinutesDown": {
+      "2024-02-29": 0
+    }
   },
   {
     "name": "Cardboards.net",
