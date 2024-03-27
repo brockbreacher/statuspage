@@ -10,15 +10,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 499,
-    "timeDay": 823,
-    "timeWeek": 651,
-    "timeMonth": 697,
-    "timeYear": 585,
+    "time": 500,
+    "timeDay": 718,
+    "timeWeek": 644,
+    "timeMonth": 705,
+    "timeYear": 586,
     "dailyMinutesDown": {
       "2023-11-24": 130,
-      "2023-11-12": 18,
-      "2023-03-28": 83
+      "2023-11-12": 18
     }
   },
   {
@@ -33,14 +32,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 199,
-    "timeDay": 245,
-    "timeWeek": 175,
-    "timeMonth": 184,
+    "timeDay": 144,
+    "timeWeek": 145,
+    "timeMonth": 187,
     "timeYear": 199,
     "dailyMinutesDown": {
       "2023-11-24": 103,
-      "2023-11-12": 18,
-      "2023-03-28": 82
+      "2023-11-12": 18
     }
   },
   {
@@ -49,15 +47,15 @@
     "icon": "https://brbr.xyz/wp-content/uploads/2021/03/BrockDoorIcon-1.png",
     "slug": "join-bot",
     "status": "up",
-    "uptime": "79.97%",
+    "uptime": "80.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "67.60%",
+    "uptimeWeek": "81.89%",
     "uptimeMonth": "90.19%",
     "uptimeYear": "99.09%",
-    "time": 118,
-    "timeDay": 116,
-    "timeWeek": 238,
-    "timeMonth": 148,
+    "time": 117,
+    "timeDay": 62,
+    "timeWeek": 213,
+    "timeMonth": 150,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2024-03-21": 442,
@@ -67,8 +65,7 @@
       "2024-02-25": 79,
       "2023-10-14": 37,
       "2023-10-13": 233,
-      "2023-06-03": 57,
-      "2023-03-28": 82
+      "2023-06-03": 57
     }
   },
   {
@@ -82,11 +79,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 209,
-    "timeDay": 234,
-    "timeWeek": 208,
-    "timeMonth": 220,
-    "timeYear": 209,
+    "time": 208,
+    "timeDay": 195,
+    "timeWeek": 185,
+    "timeMonth": 218,
+    "timeYear": 208,
     "dailyMinutesDown": {}
   },
   {
@@ -100,11 +97,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 472,
-    "timeDay": 526,
-    "timeWeek": 387,
-    "timeMonth": 414,
-    "timeYear": 472,
+    "time": 469,
+    "timeDay": 333,
+    "timeWeek": 356,
+    "timeMonth": 418,
+    "timeYear": 469,
     "dailyMinutesDown": {}
   }
 ]
