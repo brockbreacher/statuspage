@@ -73,18 +73,20 @@
     "url": "https://status.cardboardserver.cc/status/cardboard",
     "icon": "https://status.cardboardserver.cc/upload/logo1.png?t=1680385101181",
     "slug": "cardboard-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 211,
-    "timeDay": 574,
-    "timeWeek": 208,
-    "timeMonth": 216,
-    "timeYear": 211,
-    "dailyMinutesDown": {}
+    "time": 718,
+    "timeDay": 15081,
+    "timeWeek": 2878,
+    "timeMonth": 899,
+    "timeYear": 718,
+    "dailyMinutesDown": {
+      "2024-03-30": 0
+    }
   },
   {
     "name": "Cardboards.net",
