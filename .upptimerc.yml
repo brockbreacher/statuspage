@@ -12,8 +12,8 @@ sites:
   - name: Join-Bot
     url: $JOINBOT
     icon: https://brbr.xyz/wp-content/uploads/2021/03/BrockDoorIcon-1.png
-  - name: Cardboard Server
-    url: https://status.cardboardserver.cc/status/cardboard
+  - name: Kandor
+    url: https://status.lutis.net/status/cardboard
     icon: https://status.cardboardserver.cc/upload/logo1.png?t=1680385101181
   - name: Cardboards.net
     url: https://cardboards.net
