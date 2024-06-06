@@ -4,10 +4,10 @@
     "url": "https://retriox.net",
     "icon": "https://raw.githubusercontent.com/brockbreacher/statuspage/master/assets/Retriox_Logo_Manual_Upscale.png",
     "slug": "retriox",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 565,
@@ -16,6 +16,7 @@
     "timeMonth": 699,
     "timeYear": 616,
     "dailyMinutesDown": {
+      "2024-06-06": 2,
       "2023-11-24": 130,
       "2023-11-12": 18
     }
@@ -25,10 +26,10 @@
     "url": "$WEBPANEL",
     "icon": "https://yunohost.org/_images/ynh_logo_white_300dpi.png",
     "slug": "webpanel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 193,
@@ -37,6 +38,7 @@
     "timeMonth": 161,
     "timeYear": 194,
     "dailyMinutesDown": {
+      "2024-06-06": 1,
       "2023-11-24": 103,
       "2023-11-12": 18
     }
@@ -46,10 +48,10 @@
     "url": "$JOINBOT",
     "icon": "https://brbr.xyz/wp-content/uploads/2021/03/BrockDoorIcon-1.png",
     "slug": "join-bot",
-    "status": "up",
-    "uptime": "81.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "81.63%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.12%",
     "time": 108,
@@ -58,6 +60,7 @@
     "timeMonth": 63,
     "timeYear": 109,
     "dailyMinutesDown": {
+      "2024-06-06": 1,
       "2024-03-21": 442,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
@@ -73,11 +76,11 @@
     "icon": "https://status.cardboardserver.cc/upload/logo1.png?t=1680385101181",
     "slug": "kandor",
     "status": "up",
-    "uptime": "99.24%",
+    "uptime": "99.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.80%",
-    "uptimeYear": "99.24%",
+    "uptimeYear": "99.25%",
     "time": 582,
     "timeDay": 252,
     "timeWeek": 192,
@@ -96,9 +99,9 @@
     "url": "https://cardboards.net",
     "icon": "https://cardboards.net/wp-content/uploads/2023/11/box.png",
     "slug": "cardboards-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,6 +110,8 @@
     "timeWeek": 495,
     "timeMonth": 407,
     "timeYear": 410,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-06": 0
+    }
   }
 ]
