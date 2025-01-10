@@ -4,10 +4,10 @@
     "url": "https://retriox.net",
     "icon": "https://raw.githubusercontent.com/brockbreacher/statuspage/master/assets/Retriox_Logo_Manual_Upscale.png",
     "slug": "retriox",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.05%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "97.03%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.94%",
     "time": 690,
@@ -16,6 +16,7 @@
     "timeMonth": 1060,
     "timeYear": 715,
     "dailyMinutesDown": {
+      "2025-01-10": 2,
       "2025-01-08": 298,
       "2024-11-17": 20
     }
@@ -25,10 +26,10 @@
     "url": "$WEBPANEL",
     "icon": "https://yunohost.org/_images/ynh_logo_white_300dpi.png",
     "slug": "webpanel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.06%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "97.05%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.94%",
     "time": 184,
@@ -37,6 +38,7 @@
     "timeMonth": 229,
     "timeYear": 182,
     "dailyMinutesDown": {
+      "2025-01-10": 1,
       "2025-01-08": 297,
       "2024-11-17": 19
     }
@@ -46,10 +48,10 @@
     "url": "$JOINBOT",
     "icon": "https://brbr.xyz/wp-content/uploads/2021/03/BrockDoorIcon-1.png",
     "slug": "join-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "85.22%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.22%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "94.21%",
     "uptimeMonth": "98.67%",
     "uptimeYear": "99.03%",
     "time": 88,
@@ -58,6 +60,7 @@
     "timeMonth": 78,
     "timeYear": 81,
     "dailyMinutesDown": {
+      "2025-01-10": 1,
       "2025-01-08": 583,
       "2024-11-17": 25,
       "2024-09-06": 71,
@@ -139,10 +142,10 @@
     "url": "https://cardboards.net",
     "icon": "https://cardboards.net/wp-content/uploads/2023/11/box.png",
     "slug": "cardboards-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.08%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "97.07%",
     "uptimeMonth": "99.33%",
     "uptimeYear": "99.93%",
     "time": 505,
@@ -151,6 +154,7 @@
     "timeMonth": 849,
     "timeYear": 505,
     "dailyMinutesDown": {
+      "2025-01-10": 0,
       "2025-01-08": 295,
       "2024-11-17": 18
     }
