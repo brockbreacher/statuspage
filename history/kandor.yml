@@ -1,7 +1,7 @@
 url: https://status.lutis.net/status/cardboard
-status: down
-code: 503
-responseTime: 820
-lastUpdated: 2025-10-02T15:48:17.024Z
+status: up
+code: 200
+responseTime: 325
+lastUpdated: 2025-10-02T15:54:00.202Z
 startTime: 2024-04-04T08:41:24.778Z
 generator: Upptime <https://github.com/upptime/upptime>
