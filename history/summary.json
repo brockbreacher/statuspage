@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 894,
-    "timeDay": 853,
+    "time": 895,
+    "timeDay": 820,
     "timeWeek": 807,
-    "timeMonth": 838,
+    "timeMonth": 834,
     "timeYear": 879,
     "dailyMinutesDown": {
       "2025-12-17": 29,
@@ -22,8 +22,7 @@
       "2025-07-01": 418,
       "2025-03-26": 16,
       "2025-03-21": 24,
-      "2025-03-07": 23,
-      "2025-02-26": 19
+      "2025-03-07": 23
     }
   },
   {
@@ -38,10 +37,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 514,
-    "timeDay": 500,
-    "timeWeek": 543,
+    "timeDay": 635,
+    "timeWeek": 552,
     "timeMonth": 563,
-    "timeYear": 550,
+    "timeYear": 551,
     "dailyMinutesDown": {
       "2025-12-17": 28,
       "2025-12-05": 16,
@@ -49,8 +48,7 @@
       "2025-07-01": 416,
       "2025-04-08": 20,
       "2025-03-21": 23,
-      "2025-03-07": 22,
-      "2025-02-26": 18
+      "2025-03-07": 22
     }
   },
   {
@@ -59,15 +57,15 @@
     "icon": "https://status.cardboardserver.cc/upload/logo1.png?t=1680385101181",
     "slug": "kandor",
     "status": "up",
-    "uptime": "96.47%",
+    "uptime": "96.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "98.91%",
     "time": 271,
-    "timeDay": 193,
-    "timeWeek": 200,
-    "timeMonth": 233,
+    "timeDay": 275,
+    "timeWeek": 216,
+    "timeMonth": 234,
     "timeYear": 271,
     "dailyMinutesDown": {
       "2026-01-27": 36,
@@ -107,9 +105,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 625,
-    "timeDay": 647,
-    "timeWeek": 593,
-    "timeMonth": 610,
+    "timeDay": 584,
+    "timeWeek": 594,
+    "timeMonth": 607,
     "timeYear": 624,
     "dailyMinutesDown": {
       "2025-12-17": 28,
@@ -120,8 +118,7 @@
       "2025-04-08": 19,
       "2025-03-26": 16,
       "2025-03-21": 22,
-      "2025-03-07": 21,
-      "2025-02-26": 33
+      "2025-03-07": 21
     }
   }
 ]
