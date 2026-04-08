@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 893,
-    "timeDay": 651,
-    "timeWeek": 789,
-    "timeMonth": 907,
+    "time": 892,
+    "timeDay": 874,
+    "timeWeek": 806,
+    "timeMonth": 915,
     "timeYear": 876,
     "dailyMinutesDown": {
       "2025-12-17": 29,
@@ -34,16 +34,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 542,
-    "timeDay": 334,
-    "timeWeek": 448,
-    "timeMonth": 548,
+    "timeDay": 507,
+    "timeWeek": 474,
+    "timeMonth": 555,
     "timeYear": 547,
     "dailyMinutesDown": {
       "2025-12-17": 28,
       "2025-12-05": 16,
       "2025-10-07": 35,
-      "2025-07-01": 416,
-      "2025-04-08": 20
+      "2025-07-01": 416
     }
   },
   {
@@ -52,16 +51,16 @@
     "icon": "https://status.cardboardserver.cc/upload/logo1.png?t=1680385101181",
     "slug": "kandor",
     "status": "up",
-    "uptime": "96.66%",
+    "uptime": "96.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "98.91%",
-    "time": 273,
-    "timeDay": 272,
-    "timeWeek": 230,
-    "timeMonth": 230,
-    "timeYear": 271,
+    "uptimeYear": "98.92%",
+    "time": 272,
+    "timeDay": 135,
+    "timeWeek": 212,
+    "timeMonth": 227,
+    "timeYear": 269,
     "dailyMinutesDown": {
       "2026-03-09": 56,
       "2026-01-27": 36,
@@ -99,17 +98,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 635,
-    "timeDay": 486,
-    "timeWeek": 599,
-    "timeMonth": 658,
+    "timeDay": 616,
+    "timeWeek": 614,
+    "timeMonth": 660,
     "timeYear": 628,
     "dailyMinutesDown": {
       "2025-12-17": 28,
       "2025-12-05": 16,
       "2025-10-07": 17,
       "2025-07-01": 416,
-      "2025-05-22": 17,
-      "2025-04-08": 19
+      "2025-05-22": 17
     }
   }
 ]
