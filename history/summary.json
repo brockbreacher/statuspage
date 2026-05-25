@@ -50,16 +50,16 @@
     "url": "https://status.lutis.net/status/cardboard",
     "icon": "https://status.cardboardserver.cc/upload/logo1.png?t=1680385101181",
     "slug": "kandor",
-    "status": "up",
+    "status": "down",
     "uptime": "96.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.05%",
-    "time": 276,
-    "timeDay": 156,
-    "timeWeek": 196,
-    "timeMonth": 244,
+    "uptimeYear": "99.06%",
+    "time": 275,
+    "timeDay": 94,
+    "timeWeek": 175,
+    "timeMonth": 237,
     "timeYear": 257,
     "dailyMinutesDown": {
       "2025-08-08": 20,
@@ -80,7 +80,8 @@
       "2026-01-27": 36,
       "2026-03-09": 56,
       "2026-04-09": 61,
-      "2026-04-10": 53
+      "2026-04-10": 53,
+      "2026-05-25": 0
     }
   },
   {
