@@ -4,11 +4,11 @@
     "url": "https://retriox.net",
     "icon": "https://raw.githubusercontent.com/brockbreacher/statuspage/master/assets/Retriox_Logo_Manual_Upscale.png",
     "slug": "retriox",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 872,
     "timeDay": 1029,
@@ -18,7 +18,8 @@
     "dailyMinutesDown": {
       "2025-10-07": 18,
       "2025-12-05": 17,
-      "2025-12-17": 29
+      "2025-12-17": 29,
+      "2026-07-09": 10
     }
   },
   {
@@ -26,11 +27,11 @@
     "url": "$WEBPANEL",
     "icon": "https://yunohost.org/_images/ynh_logo_white_300dpi.png",
     "slug": "webpanel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 566,
     "timeDay": 774,
@@ -40,7 +41,8 @@
     "dailyMinutesDown": {
       "2025-10-07": 35,
       "2025-12-05": 16,
-      "2025-12-17": 28
+      "2025-12-17": 28,
+      "2026-07-09": 5
     }
   },
   {
@@ -49,15 +51,15 @@
     "icon": "https://status.cardboardserver.cc/upload/logo1.png?t=1680385101181",
     "slug": "kandor",
     "status": "up",
-    "uptime": "96.94%",
+    "uptime": "96.95%",
     "uptimeDay": "59.65%",
     "uptimeWeek": "94.24%",
-    "uptimeMonth": "98.64%",
+    "uptimeMonth": "98.67%",
     "uptimeYear": "98.86%",
     "time": 285,
     "timeDay": 176,
     "timeWeek": 202,
-    "timeMonth": 222,
+    "timeMonth": 221,
     "timeYear": 271,
     "dailyMinutesDown": {
       "2025-08-08": 20,
@@ -89,9 +91,9 @@
     "url": "https://cardboards.net",
     "icon": "https://cardboards.net/wp-content/uploads/2023/11/box.png",
     "slug": "cardboards-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -103,7 +105,8 @@
     "dailyMinutesDown": {
       "2025-10-07": 17,
       "2025-12-05": 16,
-      "2025-12-17": 28
+      "2025-12-17": 28,
+      "2026-07-09": 0
     }
   }
 ]
