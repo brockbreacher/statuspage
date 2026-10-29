@@ -5,11 +5,11 @@
     "icon": "https://raw.githubusercontent.com/brockbreacher/statuspage/master/assets/Retriox_Logo_Manual_Upscale.png",
     "slug": "retriox",
     "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "97.37%",
-    "uptimeMonth": "99.39%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.85%",
+    "uptimeDay": "89.84%",
+    "uptimeWeek": "95.93%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "99.90%",
     "time": 947,
     "timeDay": 0,
     "timeWeek": 884,
@@ -20,7 +20,7 @@
       "2025-12-17": 29,
       "2026-07-09": 69,
       "2026-10-26": 264,
-      "2026-10-29": 1
+      "2026-10-29": 146
     }
   },
   {
@@ -37,7 +37,7 @@
     "time": 616,
     "timeDay": 669,
     "timeWeek": 680,
-    "timeMonth": 632,
+    "timeMonth": 636,
     "timeYear": 638,
     "dailyMinutesDown": {
       "2025-12-05": 16,
@@ -60,7 +60,7 @@
     "time": 267,
     "timeDay": 323,
     "timeWeek": 214,
-    "timeMonth": 275,
+    "timeMonth": 274,
     "timeYear": 268,
     "dailyMinutesDown": {
       "2025-10-30": 77,
@@ -95,7 +95,7 @@
     "time": 654,
     "timeDay": 705,
     "timeWeek": 888,
-    "timeMonth": 704,
+    "timeMonth": 709,
     "timeYear": 651,
     "dailyMinutesDown": {
       "2025-12-05": 16,
